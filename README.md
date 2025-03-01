@@ -1,7 +1,7 @@
 # Handwritten Digit Recognition with a Neural Network (No TensorFlow/PyTorch)
 
 ## Overview
-This repository contains a Jupyter Notebook (`neural_network_hw_numpy.ipynb`) that implements a neural network from scratch using only NumPy. The model is trained on the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) to recognize handwritten digits (0-9).
+This repository contains a Jupyter Notebook (`nn_hw_numpy.ipynb`) that implements a neural network from scratch using only NumPy. The model is trained on the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) to recognize handwritten digits (0-9).
 
 ## Features
 - Implements a fully connected neural network with forward and backward propagation.
@@ -21,7 +21,7 @@ To set up the required dependencies, install the packages listed in `requirement
 
 2. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook neural_network_hw_numpy.ipynb
+   jupyter notebook nn_hw_numpy.ipynb
    ```
 
 3. Run the notebook cells to train the neural network on the MNIST dataset.
