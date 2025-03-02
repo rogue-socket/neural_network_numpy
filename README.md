@@ -30,7 +30,7 @@ To set up the required dependencies, install the packages listed in `requirement
 The MNIST dataset can be downloaded from [this link](http://yann.lecun.com/exdb/mnist/). The notebook includes code to automatically fetch and preprocess the dataset.
 
 ## Results
-After training, the neural network achieves reasonable accuracy on handwritten digit recognition. Further improvements can be made by tweaking the architecture and hyperparameters.
+After training, the neural network achieves 93.95% accuracy on handwritten digit recognition(check the `save_1.json` and load into the NN, code included). Further improvements can be made by tweaking the architecture and hyperparameters.
 
 ## Contributing
 Feel free to open issues or submit pull requests if you want to enhance the implementation.
